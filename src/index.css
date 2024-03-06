@@ -11,3 +11,8 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+/* when hovers cursor over trash icon or edit icone converts into pointer */
+i{
+  cursor : pointer;
+}
